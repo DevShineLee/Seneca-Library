@@ -1,5 +1,4 @@
 <h1>Seneca C++ Library Console Application</h1>
-<hr>
 <p>
   The Seneca Library Application is a comprehensive software solution that manages and facilitates library operations effectively. This application simplifies the organization and lending of books and publications, ensuring easy access for library users and efficient tracking of library resources.
 </p>
